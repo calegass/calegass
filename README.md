@@ -1,6 +1,7 @@
 # Welcome, I'm Matheus 👋
 Desenvolvedor e futuro engenheiro de computação, cursando o 5º período no IFTM.
 
+- 💼 Sou estagiário na Robbyson e faço parte do time de sustentação, trabalhando com frameworks JavaScript de front-end e back-end, contêineres e muito aprendizado.
 - 💼 Atualmente, faço parte da empresa júnior do IFTM, BugWare, atuando como desenvolvedor full stack e também integrante da equipe de comunicação, na qual aprendo tecnologias relacionadas a UX/UI e ferramentas para Design. Além disso, sou Tech-Lead da equipe Mobile de um dos projetos da BugWare, o SIPADE. 
 - 🌱 Também realizo uma iniciação científica na área de agricultura de precisão, desenvolvendo um sistema capaz de permitir ao usuário a automatização do processo de contagem e classificação de sementes em uma lâmina através de redes neurais convolucionais.
 - 🌎 Uberaba/Uberlândia - MG.
