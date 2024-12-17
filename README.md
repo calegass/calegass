@@ -1,12 +1,13 @@
 # Hey there, Matheus here! 👋
-Estudante de Engenharia de Computação, atualmente cursando o 6º período, com muito interesse em inovação e crescimento constante na área tecnológica.
+Estudante de Engenharia de Computação, atualmente no 6º período, sempre inovando e aprendendo cada vez mais sobre tecnologia.
 
-Sou estagiário na Robbyson, atuando no time de sustentação, onde desenvolvo soluções com frameworks TypeScript/JavaScript para front-end e back-end. Essa experiência tem me permitido aprimorar minhas habilidades em desenvolvimento de software, aplicando Clean Code e Clean Architecture, além de fortalecer minha capacidade de resolver problemas e colaborar em equipe.
+Como estagiário no time de ciência de dados da AeC, trabalho desenvolvendo soluções que geram insights estratégicos, aplicando modelagem, análise estatística e aprendizado de máquina. Já atuei em sustentação, criando soluções robustas em front-end e back-end com frameworks modernos, utilizando práticas como Clean Code e SOLID para garantir código escalável e eficiente.
 
-Na empresa júnior do IFTM, BugWare, atuo como desenvolvedor Full Stack e também integro a equipe de comunicação, aplicando e expandindo meus conhecimentos em UX/UI e ferramentas de design. Como Tech-Lead da equipe Mobile de um dos projetos da EJ, o SIPADE, lidero o time utilizando metodologias ágeis e implemento práticas de CI/CD para garantir uma entrega contínua e eficiente de soluções.
+Na empresa júnior BugWare, atuo como Tech-Lead, implementando CI/CD e metodologias ágeis para entregas contínuas e eficientes. Também colaborei na equipe de comunicação, unindo UX/UI e design para criar experiências centradas no usuário.
 
-Também desenvolvo uma pesquisa em agricultura de precisão, focada na criação de um sistema para automatização do processo de contagem e classificação de sementes utilizando redes neurais convolucionais. Esse projeto tem ampliado minhas competências em inteligência artificial, reforçando meu compromisso com a inovação tecnológica.
-  
+Em paralelo, desenvolvo uma pesquisa em agricultura de precisão, focada em sistemas baseados em redes neurais convolucionais para contagem e classificação de sementes. Esse projeto tem ampliado minhas competências em inteligência artificial, reforçando meu compromisso com a inovação tecnológica.
+
+Qualquer dúvida, estou à disposição!  
 ## 📜 Tecnologias
 
 <p align="left">
