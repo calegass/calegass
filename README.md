@@ -1,11 +1,9 @@
 # Hey there, Matheus here! 👋
-Estudante de Engenharia de Computação, atualmente no 6º período, sempre inovando e aprendendo cada vez mais sobre tecnologia.
+Estudante de Engenharia de Computação, atualmente no 9º período, sempre inovando e aprendendo cada vez mais sobre tecnologia.
 
 Como estagiário no time de ciência de dados da AeC, trabalho desenvolvendo soluções que geram insights estratégicos, aplicando modelagem, análise estatística e aprendizado de máquina. Já atuei em sustentação, criando soluções robustas em front-end e back-end com frameworks modernos, utilizando práticas como Clean Code e SOLID para garantir código escalável e eficiente.
 
-Na empresa júnior BugWare, atuo como Tech-Lead, implementando CI/CD e metodologias ágeis para entregas contínuas e eficientes. Também colaborei na equipe de comunicação, unindo UX/UI e design para criar experiências centradas no usuário.
-
-Em paralelo, desenvolvo uma pesquisa em agricultura de precisão, focada em sistemas baseados em redes neurais convolucionais para contagem e classificação de sementes. Esse projeto tem ampliado minhas competências em inteligência artificial, reforçando meu compromisso com a inovação tecnológica.
+Sou também bolsista no projeto SIPADE, contribuindo no desenvolvimento full stack de soluções geoespaciais, e realizo Iniciação Científica focada em chatbots com arquitetura RAG para otimizar o acesso à informação em processos seletivos.
 
 Qualquer dúvida, estou à disposição!  
 ## 📜 Tecnologias
