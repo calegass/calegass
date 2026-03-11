@@ -14,6 +14,16 @@ Currently working as a Full Stack Developer at **Grão Direto**, a startup revol
 
 My experience spans Frontend, Backend, Data & ML, and Infra... I've worked with well-established tools across each of these areas. But what drives my technical decisions isn't familiarity: it's fit. I'm always focused on understanding the problem first, then choosing the right tool and approach to solve it.
 
+## What I've been working on
+
+I worked as a Data Scientist, developing computer vision models and LLM-powered tools to support data analysis and KPI-driven decision-making.
+
+Previously, I worked as a Full Stack Developer, building and maintaining features across frontend, backend, and database layers, contributing to the development of production systems.
+
+I also contributed as Tech Lead for the mobile side of a software project, guiding technical decisions and ensuring code quality and maintainability.
+
+In research and innovation projects, I developed a RAG-based chatbot to improve access to information in selection processes, built a CNN-based application for seed germination classification (registered at INPI), and contributed to CI/CD automation and containerized workflows for a geospatial data platform.
+
 ## Get in touch
 
 <p align="left">
